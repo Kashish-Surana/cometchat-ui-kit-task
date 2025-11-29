@@ -18,6 +18,7 @@ https://github.com/Kashish-Surana/cometchat-ui-kit-task
 ## 📸 2. Screenshots
 
 ### Dashboard 
+![image alt](https://github.com/Kashish-Surana/cometchat-ui-kit-task/blob/81dccb8066da533f9e00c106f35db7ed00112bd1/Dashboard.jpeg)
 
 ### UI Kit Builder  
 ![image alt](https://github.com/Kashish-Surana/cometchat-ui-kit-task/blob/a18bba797c005cb746db6ee72285d24469724c2b/UI%20kit.jpeg)
