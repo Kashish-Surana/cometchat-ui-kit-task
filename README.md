@@ -24,6 +24,7 @@ https://github.com/Kashish-Surana/cometchat-ui-kit-task
 ![image alt](https://github.com/Kashish-Surana/cometchat-ui-kit-task/blob/a18bba797c005cb746db6ee72285d24469724c2b/UI%20kit.jpeg)
 
 ### Running App (localhost) 
+![image alt](https://github.com/Kashish-Surana/cometchat-ui-kit-task/blob/ad9cb54d1cd86c7a66f0b03e647324a9ca66f88f/Localhost.jpeg)
 
 ## 🛠 3. How to Run the Project
 
