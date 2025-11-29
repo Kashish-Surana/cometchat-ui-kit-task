@@ -20,6 +20,7 @@ https://github.com/Kashish-Surana/cometchat-ui-kit-task
 ### Dashboard 
 
 ### UI Kit Builder  
+![image alt](https://github.com/Kashish-Surana/cometchat-ui-kit-task/blob/a18bba797c005cb746db6ee72285d24469724c2b/UI%20kit.jpeg)
 
 ### Running App (localhost) 
 
